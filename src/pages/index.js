@@ -8,7 +8,7 @@ import Button, { ScrollButton } from '../components/button'
 import ross_exterior from '../images/ross_exterior.jpg'
 
 const Hero = styled.div`
-  padding-top: 400px;
+  padding-top: 300px;
   background: linear-gradient(rgba(0, 208, 255, 0.9), rgba(0, 208, 255, 0.9)),
     url(${ross_exterior});
   background-attachment: fixed;
@@ -42,11 +42,16 @@ const Process = styled.div`
 
 const Row = styled.div`
   display: flex;
+  flex-wrap: wrap;
 `
 
 const Col = styled.div`
   flex: 1;
-  padding: 30px;
+  padding: 10px;
+
+  @media (min-width: 576px) {
+    padding: 30px;
+  }
 `
 
 const ColContent = styled.div`
@@ -56,9 +61,11 @@ const ColContent = styled.div`
   flex-direction: column;
   padding: 30px;
   padding-top: 40px;
-  background-color: #f8f8f8;
+  padding-bottom: 0;
+  background: #fff;
   border-radius: 10px;
   height: 100%;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.05);
 `
 
 const Icon = styled.i`
@@ -71,18 +78,34 @@ const Apply = styled.div`
   ${margins}
   background-color: #fff;
   padding-top: 0;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+  @media (min-width: 576px) {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
 `
 
 const ApplyContent = styled.div`
-  background-color: rgb(0, 208, 255);
+  background: rgb(0, 208, 255);
   box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   color: #fff;
   padding: 50px;
   position: relative;
-  bottom: -50px;
+  bottom: -75px;
+
+  @media (min-width: 576px) {
+    background: linear-gradient(
+        rgba(0, 208, 255, 0.95),
+        rgba(0, 208, 255, 0.95)
+      ),
+      url(${ross_exterior});
+
+    background-attachment: fixed;
+    background-size: cover;
+  }
 `
 
 const IndexPage = ({ location }) => {
