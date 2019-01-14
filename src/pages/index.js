@@ -193,7 +193,7 @@ const IndexPage = ({ location }) => {
           <h1>Apply Now</h1>
           <p>
             We are currently accepting applications for our Winter 2019 cohort.
-            The application closes on Sunday, December 20th. No experience is
+            The application closes on Sunday, January 20th. No experience is
             necessary and all grades and majors are welcome to apply.
           </p>
           <Button href="https://goo.gl/forms/Unu4tP98y3UKL1E22">
