@@ -49,6 +49,7 @@ const Footer = () => (
           <a href="https://en.wikipedia.org/wiki/File:Ross_School_Exterior.jpg">
             MichiganRoss via CC BY-SA 3.0
           </a>
+          . Website by <a href="https://nathanhleung.com">Nathan Leung</a>.
         </p>
       </Attribution>
     </FooterContent>
