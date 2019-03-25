@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `StartUM`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    description: `StartUM is a student-run organization at the Ross School of Business and Michigan Engineering School that focuses on turning innovative ideas into viable startups.`,
+    author: `@start_um`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
