@@ -192,7 +192,7 @@ const IndexPage = ({ location }) => {
         <ApplyContent id="apply">
           <h1>Contact Us</h1>
           <p>
-            Contact the board by email if you have any questions at StartUmboard19@umich.edu 
+            Contact the board by email if you have any questions at <a href="mailto:StartUmboard19@umich.edu">StartUmboard19@umich.edu</a>.
     Our application opens in September for the Fall 2019 Cohort. No experience is necessary and all grades and majors are welcome to apply.
           </p>
           <Button href="https://goo.gl/forms/Unu4tP98y3UKL1E22">
