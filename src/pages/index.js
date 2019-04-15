@@ -114,7 +114,7 @@ const IndexPage = ({ location }) => {
       <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
       <Hero>
         <HeroContent>
-          <h1>Michigan's only student-run startup incubator</h1>
+          <h1>Michigan&quot;s only student-run startup incubator</h1>
           <p>
             We believe that the best way to learn entrepreneurship is by doing.
             StartUM is a startup incubator where you work through every step of
@@ -190,11 +190,10 @@ const IndexPage = ({ location }) => {
       </Process>
       <Apply>
         <ApplyContent id="apply">
-          <h1>Apply Now</h1>
+          <h1>Contact Us</h1>
           <p>
-            We are currently accepting applications for our Winter 2019 cohort.
-            The application closes on Sunday, January 20th. No experience is
-            necessary and all grades and majors are welcome to apply.
+            Contact the board by email if you have any questions at StartUmboard19@umich.edu 
+    Our application opens in September for the Fall 2019 Cohort. No experience is necessary and all grades and majors are welcome to apply.
           </p>
           <Button href="https://goo.gl/forms/Unu4tP98y3UKL1E22">
             Access Application
