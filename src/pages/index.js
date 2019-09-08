@@ -192,12 +192,23 @@ const IndexPage = ({ location }) => {
         <ApplyContent id="apply">
           <h1>Contact Us</h1>
           <p>
-            Contact the board by email if you have any questions at <a href="mailto:StartUmboard19@umich.edu">StartUmboard19@umich.edu</a>.
-    Our application opens in September for the Fall 2019 Cohort. No experience is necessary and all grades and majors are welcome to apply.
+            Upcoming Info Sessions:
+            <br />
+            BBA Meet the Clubs - Sept 12th 4-6pm Ross
+            <br />
+            Info Session #1 - Sunday, Sept 15th 5-6pm in R1120
+            <br />
+            Info Session #2 - Monday, Sept 16th 5-6pm in B3560
+            <br />
+            <br />
+            Contact the board by email if you have any questions at{' '}
+            <a href="mailto:StartUmboard19@umich.edu">
+              StartUmboard19@umich.edu
+            </a>
+            . Our application opens soon for the Fall 2019 Cohort. No experience
+            is necessary and all grades and majors are welcome to apply.
           </p>
-          <Button href="https://goo.gl/forms/Unu4tP98y3UKL1E22">
-            Access Application
-          </Button>
+          <Button href="/">Access Application (Coming Soon)</Button>
         </ApplyContent>
       </Apply>
     </Layout>
