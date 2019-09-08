@@ -114,7 +114,7 @@ const IndexPage = ({ location }) => {
       <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
       <Hero>
         <HeroContent>
-          <h1>Michigan&quot;s only student-run startup incubator</h1>
+          <h1>Michigan&rsquo;s only student-run startup incubator</h1>
           <p>
             We believe that the best way to learn entrepreneurship is by doing.
             StartUM is a startup incubator where you work through every step of
