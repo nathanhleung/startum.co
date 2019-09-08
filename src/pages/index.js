@@ -194,7 +194,7 @@ const IndexPage = ({ location }) => {
           <p>
             Upcoming Info Sessions:
             <br />
-            BBA Meet the Clubs - Sept 12th 4-6pm Ross
+            BBA Meet the Clubs - Thursday, Sept 12th 4-6pm in Ross
             <br />
             Info Session #1 - Sunday, Sept 15th 5-6pm in R1120
             <br />
