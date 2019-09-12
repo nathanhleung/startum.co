@@ -208,7 +208,7 @@ const IndexPage = ({ location }) => {
             . Our application opens soon for the Fall 2019 Cohort. No experience
             is necessary and all grades and majors are welcome to apply.
           </p>
-          <Button href="/">Access Application (Coming Soon)</Button>
+          <Button href="https://docs.google.com/forms/d/e/1FAIpQLSfGaf6xFN1gLMTX39-U89uEhpClZr7Agp3NzAagYOyt0AStUw/viewform">Access Application</Button>
         </ApplyContent>
       </Apply>
     </Layout>
