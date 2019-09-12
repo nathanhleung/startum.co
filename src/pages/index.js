@@ -205,7 +205,7 @@ const IndexPage = ({ location }) => {
             <a href="mailto:StartUmboard19@umich.edu">
               StartUmboard19@umich.edu
             </a>
-            . Our application opens soon for the Fall 2019 Cohort. No experience
+            . Our application is open for the Fall 2019 Cohort. No experience
             is necessary and all grades and majors are welcome to apply.
           </p>
           <Button href="https://docs.google.com/forms/d/e/1FAIpQLSfGaf6xFN1gLMTX39-U89uEhpClZr7Agp3NzAagYOyt0AStUw/viewform">Access Application</Button>
