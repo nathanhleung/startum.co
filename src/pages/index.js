@@ -194,18 +194,18 @@ const IndexPage = ({ location }) => {
           <p>
             Upcoming Info Sessions:
             <br />
-            BBA Meet the Clubs - Thursday, Sept 12th 4-6pm in Ross
+            Winterfest - Wednesday, Jan 22nd 4:30-7pm in Michigan League
             <br />
-            Info Session #1 - Sunday, Sept 15th 5-6pm in R1120
+            Info Session #1 - Friday, Jan 17th 5-6pm in R2240
             <br />
-            Info Session #2 - Monday, Sept 16th 5-6pm in B3560
+            Info Session #2 - Monday, Jan 20th 5-6pm in R2220
             <br />
             <br />
             Contact the board by email if you have any questions at{' '}
-            <a href="mailto:StartUmboard19@umich.edu">
-              StartUmboard19@umich.edu
+            <a href="mailto:StartUMboard2020@umich.edu">
+              StartUMboard2020@umich.edu
             </a>
-            . Our application is open for the Fall 2019 Cohort and is due September 20th. Recruiting reopens during the winter semester. No experience
+            . Our application is opening soon for the Winter 2020 Cohort.  No experience
             is necessary and all grades and majors are welcome to apply.
           </p>
           <Button href="/">Application Coming Winter Semester</Button>
