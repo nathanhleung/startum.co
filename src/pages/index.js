@@ -194,6 +194,8 @@ const IndexPage = ({ location }) => {
           <p>
             Upcoming Info Sessions:
             <br />
+            Ross Meet the Clubs - Thursday, Jan 16th 4-6pm in Tauber Colloquium 
+            <br />
             Winterfest - Wednesday, Jan 22nd 4:30-7pm in Michigan League
             <br />
             Info Session #1 - Friday, Jan 17th 5-6pm in R2240
