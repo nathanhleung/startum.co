@@ -199,7 +199,7 @@ const IndexPage = ({ location }) => {
                 Colloquium
               </li>
               <li>
-                Winterfest - Wednesday, Jan 22nd 4:30-7pm in Michigan League
+                Winterfest - Wednesday, Jan 22nd 4:30-7pm in Michigan Union
               </li>
               <li>Info Session #1 - Friday, Jan 17th 5-6pm in R2240</li>
               <li>Info Session #2 - Thursday, Jan 23rd 8-9pm in R2210</li>
