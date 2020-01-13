@@ -214,7 +214,7 @@ const IndexPage = ({ location }) => {
               <li>
                 Social Event [INVITE ONLY] - Thursday, Jan 30th (Time TBD)
               </li>
-              <li>First Meeting [INVITE ONLY] - Sunday, Jan 2nd (Time TBD)</li>
+              <li>First Meeting [INVITE ONLY] - Sunday, Feb 2nd (Time TBD)</li>
             </ul>
             <h4>Apply:</h4>
             Our application is open for the Winter 2020 Cohort and linked below.
