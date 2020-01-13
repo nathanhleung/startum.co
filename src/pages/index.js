@@ -190,27 +190,44 @@ const IndexPage = ({ location }) => {
       </Process>
       <Apply>
         <ApplyContent id="apply">
-          <h1>Contact Us</h1>
+          <h1>Winter 2020 Recruiting</h1>
           <p>
-            Upcoming Info Sessions:
-            <br />
-            Ross Meet the Clubs - Thursday, Jan 16th 4-6pm in Tauber Colloquium 
+            <h4>Upcoming Info Sessions:</h4>
+            Ross Meet the Clubs - Thursday, Jan 16th 4-6pm in Tauber Colloquium
             <br />
             Winterfest - Wednesday, Jan 22nd 4:30-7pm in Michigan League
             <br />
             Info Session #1 - Friday, Jan 17th 5-6pm in R2240
             <br />
-            Info Session #2 - Monday, Jan 20th 5-6pm in R2220
+            Info Session #2 - Thursday, Jan 23rd 8-9pm in R2210
             <br />
             <br />
-            Contact the board by email if you have any questions at{' '}
+            <h4>Recruiting Dates:</h4>
+            Application Due - Friday, Jan 24th 11:59pm
+            <br />
+            Interviews [INVITE ONLY] - Monday, Jan 27th and Tuesday, Jan 28th
+            (time TBD)
+            <br />
+            Social Event [INVITE ONLY] - Thursday, Jan 30th (time TBD)
+            <br />
+            First Meeting [INVITE ONLY] - Sunday, Jan 2nd (time TBD)
+            <br />
+            <br />
+            <h4>Apply:</h4>
+            Our application is open for the Winter 2020 Cohort and linked below.
+            No experience is necessary and all grades and majors are welcome to
+            apply. Contact the board by email if you have any questions at{' '}
             <a href="mailto:StartUMboard2020@umich.edu">
               StartUMboard2020@umich.edu
             </a>
-            . Our application is opening soon for the Winter 2020 Cohort.  No experience
-            is necessary and all grades and majors are welcome to apply.
+            .
           </p>
-          <Button href="/">Application Coming Winter Semester</Button>
+          <Button
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdlAbjXZxV-6jv_d353_R1nW0Tdtg6l9KhZk9T8pQopkQCxGw/viewform?usp=sf_link"
+            target="_blank"
+          >
+            Apply Now
+          </Button>
         </ApplyContent>
       </Apply>
     </Layout>
