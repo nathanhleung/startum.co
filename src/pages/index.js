@@ -193,26 +193,29 @@ const IndexPage = ({ location }) => {
           <h1>Winter 2020 Recruiting</h1>
           <p>
             <h4>Upcoming Info Sessions:</h4>
-            Ross Meet the Clubs - Thursday, Jan 16th 4-6pm in Tauber Colloquium
-            <br />
-            Winterfest - Wednesday, Jan 22nd 4:30-7pm in Michigan League
-            <br />
-            Info Session #1 - Friday, Jan 17th 5-6pm in R2240
-            <br />
-            Info Session #2 - Thursday, Jan 23rd 8-9pm in R2210
-            <br />
-            <br />
+            <ul>
+              <li>
+                Ross Meet the Clubs - Thursday, Jan 16th 4-6pm in Tauber
+                Colloquium
+              </li>
+              <li>
+                Winterfest - Wednesday, Jan 22nd 4:30-7pm in Michigan League
+              </li>
+              <li>Info Session #1 - Friday, Jan 17th 5-6pm in R2240</li>
+              <li>Info Session #2 - Thursday, Jan 23rd 8-9pm in R2210</li>
+            </ul>
             <h4>Recruiting Dates:</h4>
-            Application Due - Friday, Jan 24th 11:59pm
-            <br />
-            Interviews [INVITE ONLY] - Monday, Jan 27th and Tuesday, Jan 28th
-            (time TBD)
-            <br />
-            Social Event [INVITE ONLY] - Thursday, Jan 30th (time TBD)
-            <br />
-            First Meeting [INVITE ONLY] - Sunday, Jan 2nd (time TBD)
-            <br />
-            <br />
+            <ul>
+              <li>Application Due - Friday, Jan 24th 11:59pm</li>
+              <li>
+                Interviews [INVITE ONLY] - Monday, Jan 27th and Tuesday, Jan
+                28th (Time TBD)
+              </li>
+              <li>
+                Social Event [INVITE ONLY] - Thursday, Jan 30th (Time TBD)
+              </li>
+              <li>First Meeting [INVITE ONLY] - Sunday, Jan 2nd (Time TBD)</li>
+            </ul>
             <h4>Apply:</h4>
             Our application is open for the Winter 2020 Cohort and linked below.
             No experience is necessary and all grades and majors are welcome to
