@@ -190,46 +190,34 @@ const IndexPage = ({ location }) => {
       </Process>
       <Apply>
         <ApplyContent id="apply">
-          <h1>Winter 2020 Recruiting</h1>
+          <h1>Fall 2020 Recruiting</h1>
           <p>
             <h4>Upcoming Info Sessions:</h4>
             <ul>
-              <li>
-                Ross Meet the Clubs - Thursday, Jan 16th 4-6pm in Tauber
-                Colloquium
-              </li>
-              <li>
-                Winterfest - Wednesday, Jan 22nd 4:30-7pm in Michigan Union
-              </li>
-              <li>Info Session #1 - Friday, Jan 17th 5-6pm in R2240</li>
-              <li>Info Session #2 - Thursday, Jan 23rd 8-9pm in R2210</li>
+              <li>BBA Meet the Clubs - Sep 2nd and 3rd | 4-6pm via Zoom</li>
+              <li>Mass Meeting - Sep 6th | 7-8pm via Zoom</li>
+              <li>Additional Info Sessions - TBD</li>
             </ul>
             <h4>Recruiting Dates:</h4>
             <ul>
-              <li>Application Due - Friday, Jan 24th 11:59pm</li>
-              <li>
-                Interviews [INVITE ONLY] - Monday, Jan 27th and Tuesday, Jan
-                28th (Time TBD)
-              </li>
-              <li>
-                Social Event [INVITE ONLY] - Thursday, Jan 30th (Time TBD)
-              </li>
-              <li>First Meeting for New Members - Sunday, Feb 2nd (Time TBD)</li>
+              <li>Application Due - Sep 21st 11:59pm</li>
+              <li>Interviews [INVITE ONLY] - Sep 24th and Sep 25th</li>
+              <li>Social Event [INVITE ONLY] - Sep 28th</li>
+              <li>First Meeting for New Members - Sep 30th (Time TBD)</li>
             </ul>
             <h4>Apply:</h4>
-            Our application is open for the Winter 2020 Cohort and linked below.
-            No experience is necessary and all grades and majors are welcome to
+            Our application is coming soon for the Fall 2020 Cohort. No
+            experience is necessary and all grades and majors are welcome to
             apply. Contact the board by email if you have any questions at{' '}
             <a href="mailto:StartUMboard2020@umich.edu">
               StartUMboard2020@umich.edu
             </a>
             .
           </p>
-          <Button
-            href="https://docs.google.com/forms/d/e/1FAIpQLSdlAbjXZxV-6jv_d353_R1nW0Tdtg6l9KhZk9T8pQopkQCxGw/viewform?usp=sf_link"
-            target="_blank"
-          >
-            Apply Now
+          <Button>Application (Coming Soon)</Button>
+          <span>&nbsp;&nbsp;&nbsp;</span>
+          <Button href="https://forms.gle/2KQgRMoZGJbz6nEQ9" target="_blank">
+            Sign Up for Email Updates
           </Button>
         </ApplyContent>
       </Apply>
@@ -237,4 +225,6 @@ const IndexPage = ({ location }) => {
   )
 }
 
+// put back in application button once we have application link
+// href="/" target="_blank"
 export default IndexPage
